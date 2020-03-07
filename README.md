@@ -1,4 +1,4 @@
-# Pandas-challenge
+# Using Pandas to analyze fictional sales and school data
 
 ## Heroes of Pymoli
 
